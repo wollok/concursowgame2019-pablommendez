@@ -12,11 +12,11 @@
 
 ### Acerca de:
 
-Autores:
+Autores: Pablo Méndez y Belén Salina
 
-Docente/Curso/Institución:
+Docente/Curso/Institución: Federico Aloi - POO 1 - UNaHur
 
-Versión de wollok:
+Versión de wollok: 1.8.5
 
 Fecha:
 
